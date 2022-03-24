@@ -34,7 +34,7 @@
         <br />
         <b><em>Current Activity (Last 7 days):</em></b> 
         <br />
-        <img width="1000" height="500" src="https://wakatime.com/share/@2e27d1d5-a749-4484-bd55-093734a0a740/7ae1aa43-f6fb-4801-be45-e709545e1337.svg" alt="Wakatime" />
+        <img width="1000" height="500" src="https://wakatime.com/share/@roku/dc088362-b0c5-4024-b3b0-1b19e7cc20a9.svg" alt="Wakatime" />
     </p>
 </div>
 
