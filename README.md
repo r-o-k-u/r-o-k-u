@@ -8,9 +8,11 @@
     <a href="https://github.com/r-o-k-u" target="_blank">r-o-k-u</a> 👋
 
 [![Visitor](https://komarev.com/ghpvc/?username=r-o-k-u&style=flat&color=blueviolet)](https://github.com/r-o-k-u) 
-[![GitHub followers](https://img.shields.io/github/followers/r-o-k-u.svg?style=social&label=Follow&color=blueviolet)](https://github.com/r-o-k-u?tab=followers) 
-</h1>
 [![wakatime](https://wakatime.com/badge/user/12350775-b3cb-46a1-a815-dc658d053e65.svg)](https://wakatime.com/@12350775-b3cb-46a1-a815-dc658d053e65)
+[![twitter](https://img.shields.io/twitter/follow/C_okaya?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/C_okaya)
+[![github](https://img.shields.io/github/followers/r-o-k-u?logo=github&style=plastic)](https://github.com/r-o-k-u?tab=followers)
+</h1>
+
 <h3 align="center">
     A passionate, highly driven , adaptive 
     <br/>
@@ -20,18 +22,12 @@
     <br/>
 </h3>
 
+- 💬 Ask me about User Interface Design & Development , Product Development, Product Desing And UX, and Opensource 
+- 📫 How to reach me: [@C_Okaya](https://twitter.com/C_okaya) on Twitter
+
 
 <div>
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=r-o-k-u&count_private=true&show_icons=true&theme=prussian"
-        alt=r-o-k-u-dev />
-        <br />
-        <br />
-        <b><em>GitHub Highlights</em></b>
-        <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-o-k-u" alt="GitHub Highlights" />
-        <br />
-        <br />
+    <p align="center">      
         <b><em>Current Activity (Last 7 days):</em></b> 
         <br />
         <img width="1000" height="500" src="https://wakatime.com/share/@roku/dc088362-b0c5-4024-b3b0-1b19e7cc20a9.svg" alt="Wakatime" />
