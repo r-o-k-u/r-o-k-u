@@ -10,7 +10,7 @@
 [![Visitor](https://komarev.com/ghpvc/?username=r-o-k-u&style=flat&color=blueviolet)](https://github.com/r-o-k-u) 
 [![GitHub followers](https://img.shields.io/github/followers/r-o-k-u.svg?style=social&label=Follow&color=blueviolet)](https://github.com/r-o-k-u?tab=followers) 
 </h1>
-
+[![wakatime](https://wakatime.com/badge/user/12350775-b3cb-46a1-a815-dc658d053e65.svg)](https://wakatime.com/@12350775-b3cb-46a1-a815-dc658d053e65)
 <h3 align="center">
     A passionate, highly driven , adaptive 
     <br/>
